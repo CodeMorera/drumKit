@@ -1,2 +1,2 @@
 # drumKit
-A project to learn more about eventListeners
+A project to learn more and implement switch statements.
